@@ -14,10 +14,10 @@ This project contains two script tools in ArcGIS Pro that pertain to raster GRID
 3. Add the new .flt file to ArcGIS Pro map.
 
 ## Tool interface
-![](img/tool1img_interface)
+![](img/tool1img_interface.JPG)
 
 ## Map displaying tool output
-![](img/tool1img_map)
+![](img/tool1img_map.JPG)
 
 ### Raster analysis tool objectives
 1. Collect parameters from user in ArcTool interface:
@@ -27,11 +27,11 @@ This project contains two script tools in ArcGIS Pro that pertain to raster GRID
 3. Create a histogram of the differences using ArcGIS charts.
 
 ## Tool interface
-![](img/tool2img_interface)
+![](img/tool2img_interface.JPG)
 
 ## Map displaying tool output
-![](img/tool2img_map)
+![](img/tool2img_map.JPG)
 
 ## Histogram example
-![](img/Histogram_example)
+![](img/Histogram_example.JPG)
 
